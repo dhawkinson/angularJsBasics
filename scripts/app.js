@@ -1,4 +1,4 @@
 "use strict";
 
-angular.module("todoListApp", [])
+angular.module("todoListApp", []);
 

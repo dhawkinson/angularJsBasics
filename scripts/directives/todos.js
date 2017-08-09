@@ -4,6 +4,6 @@ angular.module('todoListApp')
     return {
         templateUrl : 'templates/todos.html',
         controller  : 'mainCtrl',
-        replace     : true                      //  removes to do tags from html
+        replace     : true                      //  removes todo tags from html
     }
 });
